@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1RquOQBj9dyqO/Btv7+d6ApTJeHeaObInLe7kMRtV7l8jdQHh/7vyyqyUok6NF60gocO47yD4y/A1NVT4FjdEQ==",
+  "dgSpecHash": "GMsgh8zsIb7Gqqjc1gBV0TlZkvgylCuXPrByuqMdSeKov/DXHiNFGZA+xHE2U6PP21+5nnPRIDSe35WNI/1cfg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Monster\\Desktop\\Travel Reservation\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Monster\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.1\\fluentvalidation.aspnetcore.11.2.1.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.0\\fluentvalidation.dependencyinjectionextensions.11.2.0.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
