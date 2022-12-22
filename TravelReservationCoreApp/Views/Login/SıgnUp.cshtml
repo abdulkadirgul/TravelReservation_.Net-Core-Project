@@ -85,12 +85,15 @@ Author URL: http://w3layouts.com
 								<input type="password" asp-for="ConfirmPassword"  />
 								<span asp-validation-for="ConfirmPassword" class="text-danger"> </span>
 							</div>
+							<div class="text-danger" asp-validation-summary="ModelOnly">
+
+							</div>
 							
 							<label class="container">Şartları okudum , <a href="#">Kabul ediyorum</a> 
 								<input type="checkbox">
 								<span class="checkmark"></span>
 							</label>
-							<button class="btn">Create account</button>
+							<button class="btn">Hesap Oluştur</button>
 					</form>
 					<div class="copy-right text-center">
 						<p>© @DateTime.Now.Year Tüm Hakları Saklıdır </p>
