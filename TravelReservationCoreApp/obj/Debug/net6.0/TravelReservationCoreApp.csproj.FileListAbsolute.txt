@@ -14,7 +14,8 @@ C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\n
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\MessagePack.Annotations.dll
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -44,6 +45,7 @@ C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\n
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -269,3 +271,9 @@ C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\obj\Debug\n
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\obj\Debug\net6.0\TravelReservationCoreApp.pdb
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\obj\Debug\net6.0\TravelReservationCoreApp.genruntimeconfig.cache
 C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\obj\Debug\net6.0\ref\TravelReservationCoreApp.dll
+C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Monster\Desktop\Travel Reservation\TravelReservationCoreApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
