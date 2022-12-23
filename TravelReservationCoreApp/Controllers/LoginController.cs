@@ -72,7 +72,7 @@ namespace TravelReservationCoreApp.Controllers
 
                 if (result.Succeeded)
                 {
-                    return RedirectToAction("Index","Destination");
+                    return RedirectToAction("Index","Profile", new {area ="Member"});
                 }
                 else
                 {
