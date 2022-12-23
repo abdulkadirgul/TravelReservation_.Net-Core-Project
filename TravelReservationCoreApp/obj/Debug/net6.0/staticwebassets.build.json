@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gBS74YKBJH9O97DOewr/lCSK+qgSMui+GciAAshZCtg=",
+  "Hash": "g2acbl1StuG4zkn+fQot2HCDqlqop6cEcNqKhhdmo70=",
   "Source": "TravelReservationCoreApp",
   "BasePath": "_content/TravelReservationCoreApp",
   "Mode": "Default",
@@ -9875,6 +9875,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Traversal-Starter\\starter-license-W3Layouts.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Monster\\Desktop\\Travel Reservation\\TravelReservationCoreApp\\wwwroot\\userimages\\e713520f-bbf5-4376-9bd4-2191e6a9f170.jpeg",
+      "SourceId": "TravelReservationCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Monster\\Desktop\\Travel Reservation\\TravelReservationCoreApp\\wwwroot\\",
+      "BasePath": "_content/TravelReservationCoreApp",
+      "RelativePath": "userimages/e713520f-bbf5-4376-9bd4-2191e6a9f170.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\userimages\\e713520f-bbf5-4376-9bd4-2191e6a9f170.jpeg"
     },
     {
       "Identity": "C:\\Users\\Monster\\Desktop\\Travel Reservation\\TravelReservationCoreApp\\wwwroot\\web\\css\\style.css",
