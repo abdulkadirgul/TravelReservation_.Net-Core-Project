@@ -30,12 +30,12 @@ namespace BusinessLayer.Concrete
 
         public void TDelete(Comment t)
         {
-            throw new NotImplementedException();
+            _commentDAL.Delete(t);
         }
 
         public Comment TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _commentDAL.GetByID(id);
         }
 
         public List<Comment> TGetList()
