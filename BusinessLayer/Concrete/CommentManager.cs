@@ -40,12 +40,17 @@ namespace BusinessLayer.Concrete
 
         public List<Comment> TGetList()
         {
-            throw new NotImplementedException();
+            return _commentDAL.GetList();
         }
 
         public void TUpdate(Comment t)
         {
             throw new NotImplementedException();
+        }
+
+        public List<Comment> TGetListCommentWithDestination()
+        {
+            return _commentDAL.GetListCommentWithDestination();
         }
     }
 }
