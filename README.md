@@ -1,4 +1,8 @@
-# Travel Reservation Web Site with .NET 6 version & EF.
+# Travel Reservation Web Site with .NET 6 version & EF & Core Identity Framework.
+   -.NET 6 version used.
+   -EntityFramework and EF Core Identity Framework used.
+   - Ntier Arcitechture used.
+   -Generic repositories and Generic Services used.
 Home Page Dark Version
 ![default-index](https://user-images.githubusercontent.com/86043508/219470152-e36420b7-c9c9-4eeb-81ba-d22486a0add9.png)
 
