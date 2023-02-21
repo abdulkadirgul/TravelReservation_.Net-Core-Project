@@ -17,6 +17,9 @@ builder.Services.AddScoped<ICommentService, CommentManager>();
 builder.Services.AddScoped<ICommentDAL, EfCommentDAL>();
 builder.Services.AddScoped<IDestinationService, DestinationManager>();
 builder.Services.AddScoped<IDestinationDAL, EfDestinationDAL>();
+builder.Services.AddScoped<IAppUserService, AppUserManager>();
+builder.Services.AddScoped<IAppUserDAL, EfAppUserDAL>();
+
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddMvc(config =>
