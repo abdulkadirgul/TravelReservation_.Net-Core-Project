@@ -15,6 +15,8 @@ builder.Services.AddDbContext<Context>();
 builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>().AddErrorDescriber<CustomIdentityValidator>().AddEntityFrameworkStores<Context>();
 builder.Services.AddScoped<ICommentService, CommentManager>();
 builder.Services.AddScoped<ICommentDAL, EfCommentDAL>();
+builder.Services.AddScoped<IDestinationService, DestinationManager>();
+builder.Services.AddScoped<IDestinationDAL, EfDestinationDAL>();
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddMvc(config =>
